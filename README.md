@@ -4,16 +4,6 @@
 
 Millions of people suffer from diabetic retinopathy, the leading cause of blindness among working-aged adults. This project aims to address this issue by developing a machine learning model that can automatically detect and classify diabetic retinopathy in retinal images. The project is a part of the 4th Asia Pacific Tele-Ophthalmology Society (APTOS) Symposium and is in collaboration with Aravind Eye Hospital in India.
 
-## Table of Contents
-
-- [Background](#background)
-- [Dataset](#dataset)
-- [Files](#files)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Model Evaluation](#model-evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Background
 
