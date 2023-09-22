@@ -50,11 +50,3 @@ Follow these steps to get started with the project:
 6. Ensure your predictions are in the format specified in `sample_submission.csv`.
 7. Submit your predictions to the competition platform.
 
-## Usage
-
-Provide information here about how to use your code and reproduce the results. Include any relevant commands or scripts.
-
-```bash
-# Example command or script
-python train.py --input_data data/train.csv --model my_model.pth
-python predict.py --input_data data/test.csv --model my_model.pth --output predictions.csv
